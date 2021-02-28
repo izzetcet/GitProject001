@@ -6,7 +6,7 @@ public class Class1 {
 		
 	System.out.println("hello");
 	// Thank you for joining
-		
+	//Her is a neww comment	
 	}
 	
 	
