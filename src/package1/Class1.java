@@ -9,6 +9,7 @@ public class Class1 {
 	//Her is a neww comment	
 		// Here is remote 
 	//....
+		//Here is another remote action
 	}
 	
 	
